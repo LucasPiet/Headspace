@@ -1,6 +1,8 @@
 # Headspace
 Plataforma de Saúde Mental Personalizada 
 
+História de Usuário:
+
 Como um indivíduo buscando bem-estar mental,
 
 QUERO acessar uma plataforma personalizada de saúde mental,
