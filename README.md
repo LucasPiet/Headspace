@@ -1,7 +1,7 @@
 # Headspace
 Plataforma de Saúde Mental Personalizada 
 
-# História de Usuário:
+# História de Usuário
 
 Como um indivíduo buscando bem-estar mental,
 
@@ -9,7 +9,7 @@ QUERO acessar uma plataforma personalizada de saúde mental,
 
 PARA QUE eu possa cultivar hábitos saudáveis e melhorarmeu bem-estar geral.
 
-# Requisitos:
+# Requisitos
 
 ➔ Personalização de exercícios e terapias com IA.
 
